@@ -1,4 +1,12 @@
 ### Blog Posts
+| Title | Summary |
+| ----- | ------- |
+|[A Reintroduction to ECMAScript 6](https://askharley-blog.netlify.app/a-reintroduction-to-ecmascript-6)|ES6 may be nearly 5 years old but I still see tons of code that isn't making use of the full ES6 awesomeness. Let's have a quick recap so we can start writing nicer code again.|
+|[Imperative vs Declarative Programming](https://askharley-blog.netlify.app/imperative-vs-declarative-programming)|The term 'declarative programming' has regained popularity with the introduction of React. But what exactly is it and how does it compare to imperative programming?|
+|[JavaScript's const keyword](https://askharley-blog.netlify.app/javascripts-const-keyword)|JavaScript's introduction of the const keyword in ES6 is amazing but has some hidden passages that you may not be aware of.|
+|[What is Redux exactly?](https://askharley-blog.netlify.app/what-is-redux-exactly)|If you're a React youngling, you would have heard the term 'redux' flung around everywhere. Let's explore what it is, why you need it and how to implement it into your application.|
+|[Build a React-Redux Shopping List App](https://askharley-blog.netlify.app/build-a-react-redux-shopping-list-app)|Let's take what we learned about Redux is our previous blog post and build an application to solve a real-world problem.|
+|[Writing Cleaner & More Readable Redux](https://askharley-blog.netlify.app/writing-cleaner-and-more-readable-redux)|Building off of the shopping list app we built in the previous blog post, let's see how we can write cleaner and more readable Redux code.|
 
 ### Podcasts
 
