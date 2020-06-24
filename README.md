@@ -19,6 +19,7 @@
 | Repo | Subjects | Explanation | GitHub Link |
 | ---- | ------- | ----------- | ----------- |
 |[xstate-ps2-demo](https://codesandbox.io/s/xstate-ps2-demo-yg0vw)|State Machines, XState|Using the PS2 as our example domain, I explore varius ways of implementing a state machine by using the XState library.||
+|[raw-html-react-jsx](https://codesandbox.io/s/raw-html-react-jsx-bn24k)|HTML, JSX, React|I demonstrate how to write the same code in raw HTML, raw JSX and then React to help one better understand what React is doing implicitly and how JSX and Babel fit into React.||
 |[react-redux-reducer-breakdown-workshop](https://codesandbox.io/s/react-redux-reducer-breakdown-workshop-rl1f0)|React, Redux, Reducers|To demonstrate what Redux is doing under the hood, we break down initial state, actions and reducers into raw JavaScript and write our own form of state management.||
 |[nintendo-power-react-hooks-workshop](https://codesandbox.io/s/nintendo-power-react-hooks-workshop-43yge)|React Hooks, Components|By using the infamous Nintendo Power is our example domain, I explore the differences between class components and functional components in React while demonstrating how hooks will completely change your life for the better.||
 |[shop-drop-redux](https://codesandbox.io/s/shop-drop-redux-3j9bx)|Redux|By makign use of a simple shopping list app, we explore the vanilla approach to implementing Redux.||
