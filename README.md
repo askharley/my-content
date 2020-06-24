@@ -19,3 +19,4 @@
 | Repo | Subjects | Explanation | GitHub Link |
 | ---- | ------- | ----------- | ----------- |
 |[xstate-ps2-demo](https://codesandbox.io/s/xstate-ps2-demo-yg0vw)|State Machines, XState|||
+|[react-redux-reducer-breakdown-workshop](https://codesandbox.io/s/react-redux-reducer-breakdown-workshop-rl1f0)|React, Redux, Reducers|||
