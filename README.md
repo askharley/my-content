@@ -21,3 +21,6 @@
 |[xstate-ps2-demo](https://codesandbox.io/s/xstate-ps2-demo-yg0vw)|State Machines, XState|||
 |[react-redux-reducer-breakdown-workshop](https://codesandbox.io/s/react-redux-reducer-breakdown-workshop-rl1f0)|React, Redux, Reducers|||
 |[nintendo-power-react-hooks-workshop](https://codesandbox.io/s/nintendo-power-react-hooks-workshop-43yge)|React Hooks, Components|||
+|[shop-drop-redux](https://codesandbox.io/s/shop-drop-redux-3j9bx)|Redux|By makign use of a simple shopping list app, we explore the vanilla approach to implementing Redux.||
+|[shop-drop-clean-redux](https://codesandbox.io/s/shop-drop-clean-redux-xd6cu)|Redux, Clean Code|Building off of our vanilla Redux example, we explore how we can make use of libraries to write cleaner and much more readable Redux code.||
+|[shop-drop-recoil](https://codesandbox.io/s/shop-drop-recoil-jtqkq)|Recoil|We rebuilt the ShopDrop app but make use of Facebook Experimental's new state management library, Recoil.||
