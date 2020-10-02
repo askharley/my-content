@@ -7,6 +7,7 @@
 |[What is Redux exactly?](https://askharley-blog.netlify.app/what-is-redux-exactly)|If you're a React youngling, you would have heard the term 'redux' flung around everywhere. Let's explore what it is, why you need it and how to implement it into your application.|
 |[Build a React-Redux Shopping List App](https://askharley-blog.netlify.app/build-a-react-redux-shopping-list-app)|Let's take what we learned about Redux is our previous blog post and build an application to solve a real-world problem.|
 |[Writing Cleaner & More Readable Redux](https://askharley-blog.netlify.app/writing-cleaner-and-more-readable-redux)|Building off of the shopping list app we built in the previous blog post, let's see how we can write cleaner and more readable Redux code.|
+|[What is Recoil exactly?](https://askharley-blog.netlify.app/what-is-recoil-exactly)|We've explained what state management is, how Redux fits into it as well as how to write super clean Redux code. Now let's look at Facebook Experimental's latest state management library: Recoil.|
 
 ### Podcasts
 
